@@ -7,9 +7,8 @@
 - Connect your phone on computer using USB, and click on Run icon
 
 ### Screenshots
-![image](https://user-images.githubusercontent.com/51375428/159167433-d5dcdd14-af7e-4dc6-be46-5d6b27a3a6dc.png)
-![image](https://user-images.githubusercontent.com/51375428/159167459-66d7d194-fbd2-4b22-a212-4c6df8df15fc.png)
-![image](https://user-images.githubusercontent.com/51375428/159167512-008fe3a4-ad23-4b06-9d14-7333abcff6ba.png)
-![image](https://user-images.githubusercontent.com/51375428/159167523-f2afe7b1-fbc8-4458-b4ef-d00b6f937210.png)
-![image](https://user-images.githubusercontent.com/51375428/159167539-7a8f4cd6-c06a-4a06-b6d7-03520c18e791.png)
-
+![16cf5713-9fc4-4e55-9130-86adcc04e0f5](https://user-images.githubusercontent.com/51375428/159169808-00fe667b-c7d6-441a-8018-1c5950eed972.jpg)
+![f04e8808-1124-4cc1-ac09-b66c6913b405](https://user-images.githubusercontent.com/51375428/159169815-fa46668e-4dae-4121-932f-c82f8c4036b7.jpg)
+![a87d0103-bede-46b6-81b0-21956e37711f](https://user-images.githubusercontent.com/51375428/159169821-1a94294d-9a67-4ef5-ac5e-163c77c5dd99.jpg)
+![9fbb0bc4-fc93-4ae7-92da-c5697f5093c9](https://user-images.githubusercontent.com/51375428/159169827-880029b4-208a-40f2-96d2-66845ee0b5ba.jpg)
+![486f8bba-d280-47d2-ac9b-e49a18951c35](https://user-images.githubusercontent.com/51375428/159169833-a63bacfe-2e26-4ab2-8f10-76e1fbf14853.jpg)
